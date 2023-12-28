@@ -13,9 +13,3 @@ This project is a simple web application that counts the number of vowels in a g
 
 [Click here to see the live demo.](https://harithaguna.github.io/vowelCounter/)
 
-## How to Use
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/harithaguna/vowelCounter.git
