@@ -11,7 +11,7 @@ This project is a simple web application that counts the number of vowels in a g
 
 ## Demo
 
-[Click here to see the live demo.](https://harithaguna.github.io/vowel-counter/)
+[Click here to see the live demo.](https://harithaguna.github.io/vowelCounter/)
 
 ## How to Use
 
