@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background:linear-gradient(to bottom,rgb(225, 0, 255),rgb(149, 8, 250));
+    background-repeat: no-repeat;
+    min-height: 38.7em;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.container{
+    margin:15% auto;
+    padding:2em;
+    width:35em;
+    height: 23em;
+    max-height: 23em;
+    max-width:60em;
+    background-color: #fff;
+    border:2px solid rgb(155, 150, 150);   
+    border-radius: 1rem;
+    overflow: auto;
+}
+#textarea{
+    margin-top:1em;
+    border-radius: 5px;
+    border:2px solid rgb(155, 150, 150); 
+      
+}
+.vowel{
+    position:relative;
+    float: right;
+    margin-top:5em;
+    margin-right: 1em;
+    font-weight: bold;
+}
+#countVowel{
+    position:absolute;
+    float:right;
+    margin-top:7.5em;
+    margin-left:3em;
+    min-width: 3.5em;
+    max-width: 3.5em;
+    border-radius: 50%;
+    background-color: blueviolet;
+    padding:1.3em;
+    display: inline;
+    color: #ffffff;
+    font-weight:bold ;
+    text-align: center;
+}
